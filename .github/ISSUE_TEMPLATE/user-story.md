@@ -7,4 +7,13 @@ assignees: ''
 
 ---
 
-As a **Role** I can **capability** so that **received benefit**
+In order to **   **     as the **   **    I can **   ** 
+
+## Acceptance Criteria:
+- select anonymous user with checkbox
+- checkbox to be positioned by submit button
+
+## Tasks:
+- [ ]  Task 1
+- [ ]  Task 2
+- [ ]  Task 3
