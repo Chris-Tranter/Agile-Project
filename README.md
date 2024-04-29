@@ -1,1 +1,1 @@
-A very <span style='color: blue;'>long</span> sentence.
+A very <span style='color: blue;'>*blue*</span> sentence.
